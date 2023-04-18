@@ -1,0 +1,16 @@
+{
+    "schemaVersion": 1,
+    "id": "npe_dimensiontype",
+    "version": "${version}",
+    "name": "NPE_DimensionType",
+    "description": "",
+    "authors": [
+        "ZekerZhayard"
+    ],
+    "contact": {},
+    "license": "All-Rights-Reserved",
+    "environment": "*",
+    "mixins": [
+        "NPE_DimensionType.mixins.json"
+    ]
+}
